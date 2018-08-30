@@ -1,1 +1,3 @@
-# Find Complete tutorial here [Here](https://code.tutsplus.com/tutorials/capture-and-crop-an-image-with-the-device-camera--mobile-11458)
+#user libraries
+>implementation 'com.github.takusemba:cropme:1.0.6'
+>implementation 'com.android.support:support-dynamic-animation:27.1.1'
